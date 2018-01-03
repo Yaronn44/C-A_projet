@@ -1,0 +1,67 @@
+1 000 machines, 2 000 taches, 20 instances, min = 2, max = 5 000 000 :
+ratio d'approximation moyen LSA = 1.64792
+ratio d'approximation moyen LPT = 1.01323
+ratio d'approximation moyen MyAlgo = 1.01394
+
+1 000 machines, 4 000 taches, 20 instances, min = 2, max = 5 000 000 :
+ratio d'approximation moyen LSA = 1.32035
+ratio d'approximation moyen LPT = 1.00548
+ratio d'approximation moyen MyAlgo = 1.00586
+
+1 000 machines, 6 000 taches, 20 instances, min = 2, max = 5 000 000 :
+ratio d'approximation moyen LSA = 1.2144
+ratio d'approximation moyen LPT = 1.00328
+ratio d'approximation moyen MyAlgo = 1.00309
+
+1 000 machines, 8 000 taches, 20 instances, min = 2, max = 5 000 000 :
+ratio d'approximation moyen LSA = 1.16037
+ratio d'approximation moyen LPT = 1.00151
+ratio d'approximation moyen MyAlgo = 1.00201
+
+1 000 machines, 10 000 taches, 20 instances, min = 2, max = 5 000 000 :
+ratio d'approximation moyen LSA = 1.01279
+ratio d'approximation moyen LPT = 1.00003
+ratio d'approximation moyen MyAlgo = 1.00004
+
+
+
+
+1 000 machines, 2 000 taches, 20 instances, min = 2, max = 500:
+ratio d'approximation moyen LSA = 1.6561
+ratio d'approximation moyen LPT = 1.01475
+ratio d'approximation moyen MyAlgo = 1.01545
+
+1 000 machines, 4 000 taches, 20 instances, min = 2, max = 500:
+ratio d'approximation moyen LSA = 1.31997
+ratio d'approximation moyen LPT = 1.006
+ratio d'approximation moyen MyAlgo = 1.00599
+
+1 000 machines, 6 000 taches, 20 instances, min = 2, max = 500:
+ratio d'approximation moyen LSA = 1.21177
+ratio d'approximation moyen LPT = 1.00378
+ratio d'approximation moyen MyAlgo = 1.00395
+
+1 000 machines, 8 000 taches, 20 instances, min = 2, max = 500:
+ratio d'approximation moyen LSA = 1.16022
+ratio d'approximation moyen LPT = 1.00226
+ratio d'approximation moyen MyAlgo = 1.00291
+
+1 000 machines, 10 000 taches, 20 instances, min = 2, max = 500:
+ratio d'approximation moyen LSA = 1.12661
+ratio d'approximation moyen LPT = 1.00169
+ratio d'approximation moyen MyAlgo = 1.00217
+
+
+
+
+1 000 machines, 1 500 taches, 20 instances, min = 2, max = 5 000 000:
+ratio d'approximation moyen LSA = 1.37603
+ratio d'approximation moyen LPT = 1
+ratio d'approximation moyen MyAlgo = 1.02087
+
+1 000 machines, 1 500 taches, 20 instances, min = 2, max = 500:
+ratio d'approximation moyen LSA = 1.37354
+ratio d'approximation moyen LPT = 1
+ratio d'approximation moyen MyAlgo = 1.021
+
+On a bien 10 000 = 1 000 * 2 * 5, pour n = 5, et l’algorithme est aussi efficace que LPT pour ce genre d’instance.

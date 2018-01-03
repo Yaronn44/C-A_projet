@@ -1,0 +1,144 @@
+Borne inférieure ‘‘maximum’’ = 500
+Borne inférieure ‘‘moyenne’’ = 378
+Résultat LSA = 687
+Résultat LPT = 500
+Résultat MyAlgo = 517
+--------------------------------------------------------------- 
+
+Borne inférieure ‘‘maximum’’ = 500
+Borne inférieure ‘‘moyenne’’ = 378
+Résultat LSA = 679
+Résultat LPT = 500
+Résultat MyAlgo = 517
+--------------------------------------------------------------- 
+
+Borne inférieure ‘‘maximum’’ = 500
+Borne inférieure ‘‘moyenne’’ = 376
+Résultat LSA = 683
+Résultat LPT = 500
+Résultat MyAlgo = 510
+--------------------------------------------------------------- 
+
+Borne inférieure ‘‘maximum’’ = 500
+Borne inférieure ‘‘moyenne’’ = 366
+Résultat LSA = 674
+Résultat LPT = 500
+Résultat MyAlgo = 511
+--------------------------------------------------------------- 
+
+Borne inférieure ‘‘maximum’’ = 500
+Borne inférieure ‘‘moyenne’’ = 379
+Résultat LSA = 680
+Résultat LPT = 500
+Résultat MyAlgo = 513
+--------------------------------------------------------------- 
+
+Borne inférieure ‘‘maximum’’ = 500
+Borne inférieure ‘‘moyenne’’ = 377
+Résultat LSA = 693
+Résultat LPT = 500
+Résultat MyAlgo = 514
+--------------------------------------------------------------- 
+
+Borne inférieure ‘‘maximum’’ = 500
+Borne inférieure ‘‘moyenne’’ = 376
+Résultat LSA = 690
+Résultat LPT = 500
+Résultat MyAlgo = 507
+--------------------------------------------------------------- 
+
+Borne inférieure ‘‘maximum’’ = 500
+Borne inférieure ‘‘moyenne’’ = 366
+Résultat LSA = 663
+Résultat LPT = 500
+Résultat MyAlgo = 503
+--------------------------------------------------------------- 
+
+Borne inférieure ‘‘maximum’’ = 499
+Borne inférieure ‘‘moyenne’’ = 375
+Résultat LSA = 684
+Résultat LPT = 499
+Résultat MyAlgo = 509
+--------------------------------------------------------------- 
+
+Borne inférieure ‘‘maximum’’ = 500
+Borne inférieure ‘‘moyenne’’ = 385
+Résultat LSA = 706
+Résultat LPT = 500
+Résultat MyAlgo = 522
+--------------------------------------------------------------- 
+
+Borne inférieure ‘‘maximum’’ = 500
+Borne inférieure ‘‘moyenne’’ = 377
+Résultat LSA = 679
+Résultat LPT = 500
+Résultat MyAlgo = 510
+--------------------------------------------------------------- 
+
+Borne inférieure ‘‘maximum’’ = 500
+Borne inférieure ‘‘moyenne’’ = 370
+Résultat LSA = 687
+Résultat LPT = 500
+Résultat MyAlgo = 503
+--------------------------------------------------------------- 
+
+Borne inférieure ‘‘maximum’’ = 500
+Borne inférieure ‘‘moyenne’’ = 373
+Résultat LSA = 690
+Résultat LPT = 500
+Résultat MyAlgo = 509
+--------------------------------------------------------------- 
+
+Borne inférieure ‘‘maximum’’ = 500
+Borne inférieure ‘‘moyenne’’ = 376
+Résultat LSA = 700
+Résultat LPT = 500
+Résultat MyAlgo = 507
+--------------------------------------------------------------- 
+
+Borne inférieure ‘‘maximum’’ = 500
+Borne inférieure ‘‘moyenne’’ = 379
+Résultat LSA = 703
+Résultat LPT = 500
+Résultat MyAlgo = 513
+--------------------------------------------------------------- 
+
+Borne inférieure ‘‘maximum’’ = 500
+Borne inférieure ‘‘moyenne’’ = 359
+Résultat LSA = 670
+Résultat LPT = 500
+Résultat MyAlgo = 503
+--------------------------------------------------------------- 
+
+Borne inférieure ‘‘maximum’’ = 500
+Borne inférieure ‘‘moyenne’’ = 369
+Résultat LSA = 674
+Résultat LPT = 500
+Résultat MyAlgo = 502
+--------------------------------------------------------------- 
+
+Borne inférieure ‘‘maximum’’ = 500
+Borne inférieure ‘‘moyenne’’ = 380
+Résultat LSA = 702
+Résultat LPT = 500
+Résultat MyAlgo = 518
+--------------------------------------------------------------- 
+
+Borne inférieure ‘‘maximum’’ = 500
+Borne inférieure ‘‘moyenne’’ = 378
+Résultat LSA = 697
+Résultat LPT = 500
+Résultat MyAlgo = 516
+--------------------------------------------------------------- 
+
+Borne inférieure ‘‘maximum’’ = 500
+Borne inférieure ‘‘moyenne’’ = 373
+Résultat LSA = 693
+Résultat LPT = 500
+Résultat MyAlgo = 505
+--------------------------------------------------------------- 
+
+ratio d'approximation moyen LSA = 1.37354
+ratio d'approximation moyen LPT = 1
+ratio d'approximation moyen MyAlgo = 1.021
+
