@@ -1,144 +1,144 @@
-Borne inférieure ‘‘maximum’’ = 500
-Borne inférieure ‘‘moyenne’’ = 378
-Résultat LSA = 687
-Résultat LPT = 500
-Résultat MyAlgo = 517
+Borne inférieure ‘‘maximum’’ = 477
+Borne inférieure ‘‘moyenne’’ = 1512
+Résultat LSA = 1756
+Résultat LPT = 1534
+Résultat MyAlgo = 1707
 --------------------------------------------------------------- 
 
-Borne inférieure ‘‘maximum’’ = 500
-Borne inférieure ‘‘moyenne’’ = 378
-Résultat LSA = 679
-Résultat LPT = 500
-Résultat MyAlgo = 517
+Borne inférieure ‘‘maximum’’ = 484
+Borne inférieure ‘‘moyenne’’ = 1108
+Résultat LSA = 1297
+Résultat LPT = 1139
+Résultat MyAlgo = 1203
 --------------------------------------------------------------- 
 
-Borne inférieure ‘‘maximum’’ = 500
-Borne inférieure ‘‘moyenne’’ = 376
-Résultat LSA = 683
-Résultat LPT = 500
-Résultat MyAlgo = 510
+Borne inférieure ‘‘maximum’’ = 394
+Borne inférieure ‘‘moyenne’’ = 1038
+Résultat LSA = 1174
+Résultat LPT = 1077
+Résultat MyAlgo = 1186
 --------------------------------------------------------------- 
 
-Borne inférieure ‘‘maximum’’ = 500
-Borne inférieure ‘‘moyenne’’ = 366
-Résultat LSA = 674
-Résultat LPT = 500
-Résultat MyAlgo = 511
---------------------------------------------------------------- 
-
-Borne inférieure ‘‘maximum’’ = 500
-Borne inférieure ‘‘moyenne’’ = 379
-Résultat LSA = 680
-Résultat LPT = 500
-Résultat MyAlgo = 513
---------------------------------------------------------------- 
-
-Borne inférieure ‘‘maximum’’ = 500
-Borne inférieure ‘‘moyenne’’ = 377
-Résultat LSA = 693
-Résultat LPT = 500
-Résultat MyAlgo = 514
---------------------------------------------------------------- 
-
-Borne inférieure ‘‘maximum’’ = 500
-Borne inférieure ‘‘moyenne’’ = 376
-Résultat LSA = 690
-Résultat LPT = 500
-Résultat MyAlgo = 507
---------------------------------------------------------------- 
-
-Borne inférieure ‘‘maximum’’ = 500
-Borne inférieure ‘‘moyenne’’ = 366
-Résultat LSA = 663
-Résultat LPT = 500
-Résultat MyAlgo = 503
+Borne inférieure ‘‘maximum’’ = 448
+Borne inférieure ‘‘moyenne’’ = 1451
+Résultat LSA = 1692
+Résultat LPT = 1457
+Résultat MyAlgo = 1671
 --------------------------------------------------------------- 
 
 Borne inférieure ‘‘maximum’’ = 499
-Borne inférieure ‘‘moyenne’’ = 375
-Résultat LSA = 684
-Résultat LPT = 499
-Résultat MyAlgo = 509
+Borne inférieure ‘‘moyenne’’ = 1109
+Résultat LSA = 1402
+Résultat LPT = 1144
+Résultat MyAlgo = 1283
+--------------------------------------------------------------- 
+
+Borne inférieure ‘‘maximum’’ = 486
+Borne inférieure ‘‘moyenne’’ = 1355
+Résultat LSA = 1580
+Résultat LPT = 1387
+Résultat MyAlgo = 1516
 --------------------------------------------------------------- 
 
 Borne inférieure ‘‘maximum’’ = 500
-Borne inférieure ‘‘moyenne’’ = 385
-Résultat LSA = 706
-Résultat LPT = 500
-Résultat MyAlgo = 522
+Borne inférieure ‘‘moyenne’’ = 1454
+Résultat LSA = 1628
+Résultat LPT = 1513
+Résultat MyAlgo = 1617
+--------------------------------------------------------------- 
+
+Borne inférieure ‘‘maximum’’ = 498
+Borne inférieure ‘‘moyenne’’ = 1365
+Résultat LSA = 1520
+Résultat LPT = 1385
+Résultat MyAlgo = 1521
+--------------------------------------------------------------- 
+
+Borne inférieure ‘‘maximum’’ = 496
+Borne inférieure ‘‘moyenne’’ = 1465
+Résultat LSA = 1533
+Résultat LPT = 1487
+Résultat MyAlgo = 1633
+--------------------------------------------------------------- 
+
+Borne inférieure ‘‘maximum’’ = 498
+Borne inférieure ‘‘moyenne’’ = 1140
+Résultat LSA = 1180
+Résultat LPT = 1149
+Résultat MyAlgo = 1263
+--------------------------------------------------------------- 
+
+Borne inférieure ‘‘maximum’’ = 487
+Borne inférieure ‘‘moyenne’’ = 1618
+Résultat LSA = 1821
+Résultat LPT = 1681
+Résultat MyAlgo = 1853
+--------------------------------------------------------------- 
+
+Borne inférieure ‘‘maximum’’ = 492
+Borne inférieure ‘‘moyenne’’ = 1397
+Résultat LSA = 1464
+Résultat LPT = 1401
+Résultat MyAlgo = 1654
+--------------------------------------------------------------- 
+
+Borne inférieure ‘‘maximum’’ = 483
+Borne inférieure ‘‘moyenne’’ = 1208
+Résultat LSA = 1235
+Résultat LPT = 1217
+Résultat MyAlgo = 1363
+--------------------------------------------------------------- 
+
+Borne inférieure ‘‘maximum’’ = 468
+Borne inférieure ‘‘moyenne’’ = 1301
+Résultat LSA = 1377
+Résultat LPT = 1311
+Résultat MyAlgo = 1443
 --------------------------------------------------------------- 
 
 Borne inférieure ‘‘maximum’’ = 500
-Borne inférieure ‘‘moyenne’’ = 377
-Résultat LSA = 679
-Résultat LPT = 500
-Résultat MyAlgo = 510
+Borne inférieure ‘‘moyenne’’ = 1588
+Résultat LSA = 1687
+Résultat LPT = 1606
+Résultat MyAlgo = 1809
 --------------------------------------------------------------- 
 
-Borne inférieure ‘‘maximum’’ = 500
-Borne inférieure ‘‘moyenne’’ = 370
-Résultat LSA = 687
-Résultat LPT = 500
-Résultat MyAlgo = 503
+Borne inférieure ‘‘maximum’’ = 491
+Borne inférieure ‘‘moyenne’’ = 1453
+Résultat LSA = 1641
+Résultat LPT = 1493
+Résultat MyAlgo = 1663
 --------------------------------------------------------------- 
 
-Borne inférieure ‘‘maximum’’ = 500
-Borne inférieure ‘‘moyenne’’ = 373
-Résultat LSA = 690
-Résultat LPT = 500
-Résultat MyAlgo = 509
+Borne inférieure ‘‘maximum’’ = 493
+Borne inférieure ‘‘moyenne’’ = 1340
+Résultat LSA = 1387
+Résultat LPT = 1373
+Résultat MyAlgo = 1519
 --------------------------------------------------------------- 
 
-Borne inférieure ‘‘maximum’’ = 500
-Borne inférieure ‘‘moyenne’’ = 376
-Résultat LSA = 700
-Résultat LPT = 500
-Résultat MyAlgo = 507
+Borne inférieure ‘‘maximum’’ = 483
+Borne inférieure ‘‘moyenne’’ = 1241
+Résultat LSA = 1294
+Résultat LPT = 1251
+Résultat MyAlgo = 1372
 --------------------------------------------------------------- 
 
-Borne inférieure ‘‘maximum’’ = 500
-Borne inférieure ‘‘moyenne’’ = 379
-Résultat LSA = 703
-Résultat LPT = 500
-Résultat MyAlgo = 513
+Borne inférieure ‘‘maximum’’ = 489
+Borne inférieure ‘‘moyenne’’ = 1358
+Résultat LSA = 1483
+Résultat LPT = 1391
+Résultat MyAlgo = 1499
 --------------------------------------------------------------- 
 
-Borne inférieure ‘‘maximum’’ = 500
-Borne inférieure ‘‘moyenne’’ = 359
-Résultat LSA = 670
-Résultat LPT = 500
-Résultat MyAlgo = 503
+Borne inférieure ‘‘maximum’’ = 483
+Borne inférieure ‘‘moyenne’’ = 1697
+Résultat LSA = 1940
+Résultat LPT = 1744
+Résultat MyAlgo = 1935
 --------------------------------------------------------------- 
 
-Borne inférieure ‘‘maximum’’ = 500
-Borne inférieure ‘‘moyenne’’ = 369
-Résultat LSA = 674
-Résultat LPT = 500
-Résultat MyAlgo = 502
---------------------------------------------------------------- 
-
-Borne inférieure ‘‘maximum’’ = 500
-Borne inférieure ‘‘moyenne’’ = 380
-Résultat LSA = 702
-Résultat LPT = 500
-Résultat MyAlgo = 518
---------------------------------------------------------------- 
-
-Borne inférieure ‘‘maximum’’ = 500
-Borne inférieure ‘‘moyenne’’ = 378
-Résultat LSA = 697
-Résultat LPT = 500
-Résultat MyAlgo = 516
---------------------------------------------------------------- 
-
-Borne inférieure ‘‘maximum’’ = 500
-Borne inférieure ‘‘moyenne’’ = 373
-Résultat LSA = 693
-Résultat LPT = 500
-Résultat MyAlgo = 505
---------------------------------------------------------------- 
-
-ratio d'approximation moyen LSA = 1.37354
-ratio d'approximation moyen LPT = 1
-ratio d'approximation moyen MyAlgo = 1.021
+ratio d'approximation moyen LSA = 1.10665
+ratio d'approximation moyen LPT = 1.0199
+ratio d'approximation moyen MyAlgo = 1.12836
 
