@@ -65,3 +65,19 @@ ratio d'approximation moyen LPT = 1
 ratio d'approximation moyen MyAlgo = 1.021
 
 On a bien 10 000 = 1 000 * 2 * 5, pour n = 5, et l’algorithme est aussi efficace que LPT pour ce genre d’instance.
+
+
+1000 2335 20 2 5000000
+ratio d'approximation moyen LSA = 1.56044
+ratio d'approximation moyen LPT = 1.08828
+ratio d'approximation moyen MyAlgo = 1.70673
+
+1000 2335 20 2 500
+ratio d'approximation moyen LSA = 1.55417
+ratio d'approximation moyen LPT = 1.09256
+ratio d'approximation moyen MyAlgo = 1.71463
+
+1000 2335 20 2 10
+ratio d'approximation moyen LSA = 1.48352
+ratio d'approximation moyen LPT = 1.18681
+ratio d'approximation moyen MyAlgo = 1.81236
