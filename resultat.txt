@@ -1,144 +1,144 @@
 Borne inférieure ‘‘maximum’’ = 10
-Borne inférieure ‘‘moyenne’’ = 14
-Résultat LSA = 20
-Résultat LPT = 16
-Résultat MyAlgo = 25
+Borne inférieure ‘‘moyenne’’ = 8
+Résultat LSA = 15
+Résultat LPT = 10
+Résultat MyAlgo = 12
 --------------------------------------------------------------- 
 
 Borne inférieure ‘‘maximum’’ = 10
-Borne inférieure ‘‘moyenne’’ = 13
-Résultat LSA = 20
-Résultat LPT = 16
-Résultat MyAlgo = 24
+Borne inférieure ‘‘moyenne’’ = 9
+Résultat LSA = 16
+Résultat LPT = 10
+Résultat MyAlgo = 13
 --------------------------------------------------------------- 
 
 Borne inférieure ‘‘maximum’’ = 10
-Borne inférieure ‘‘moyenne’’ = 14
-Résultat LSA = 20
-Résultat LPT = 16
-Résultat MyAlgo = 25
+Borne inférieure ‘‘moyenne’’ = 8
+Résultat LSA = 16
+Résultat LPT = 10
+Résultat MyAlgo = 13
 --------------------------------------------------------------- 
 
 Borne inférieure ‘‘maximum’’ = 10
-Borne inférieure ‘‘moyenne’’ = 13
-Résultat LSA = 20
-Résultat LPT = 16
-Résultat MyAlgo = 24
+Borne inférieure ‘‘moyenne’’ = 8
+Résultat LSA = 16
+Résultat LPT = 10
+Résultat MyAlgo = 13
 --------------------------------------------------------------- 
 
 Borne inférieure ‘‘maximum’’ = 10
-Borne inférieure ‘‘moyenne’’ = 13
-Résultat LSA = 20
-Résultat LPT = 16
-Résultat MyAlgo = 24
+Borne inférieure ‘‘moyenne’’ = 9
+Résultat LSA = 16
+Résultat LPT = 10
+Résultat MyAlgo = 13
 --------------------------------------------------------------- 
 
 Borne inférieure ‘‘maximum’’ = 10
-Borne inférieure ‘‘moyenne’’ = 13
-Résultat LSA = 20
-Résultat LPT = 16
-Résultat MyAlgo = 24
+Borne inférieure ‘‘moyenne’’ = 9
+Résultat LSA = 15
+Résultat LPT = 10
+Résultat MyAlgo = 13
 --------------------------------------------------------------- 
 
 Borne inférieure ‘‘maximum’’ = 10
-Borne inférieure ‘‘moyenne’’ = 13
-Résultat LSA = 20
-Résultat LPT = 16
-Résultat MyAlgo = 24
+Borne inférieure ‘‘moyenne’’ = 9
+Résultat LSA = 16
+Résultat LPT = 10
+Résultat MyAlgo = 13
 --------------------------------------------------------------- 
 
 Borne inférieure ‘‘maximum’’ = 10
-Borne inférieure ‘‘moyenne’’ = 14
-Résultat LSA = 20
-Résultat LPT = 16
-Résultat MyAlgo = 25
+Borne inférieure ‘‘moyenne’’ = 8
+Résultat LSA = 16
+Résultat LPT = 10
+Résultat MyAlgo = 12
 --------------------------------------------------------------- 
 
 Borne inférieure ‘‘maximum’’ = 10
-Borne inférieure ‘‘moyenne’’ = 13
-Résultat LSA = 20
-Résultat LPT = 16
-Résultat MyAlgo = 24
+Borne inférieure ‘‘moyenne’’ = 8
+Résultat LSA = 16
+Résultat LPT = 10
+Résultat MyAlgo = 12
 --------------------------------------------------------------- 
 
 Borne inférieure ‘‘maximum’’ = 10
-Borne inférieure ‘‘moyenne’’ = 14
-Résultat LSA = 20
-Résultat LPT = 16
-Résultat MyAlgo = 25
+Borne inférieure ‘‘moyenne’’ = 8
+Résultat LSA = 16
+Résultat LPT = 10
+Résultat MyAlgo = 13
 --------------------------------------------------------------- 
 
 Borne inférieure ‘‘maximum’’ = 10
-Borne inférieure ‘‘moyenne’’ = 13
-Résultat LSA = 20
-Résultat LPT = 16
-Résultat MyAlgo = 24
+Borne inférieure ‘‘moyenne’’ = 9
+Résultat LSA = 16
+Résultat LPT = 10
+Résultat MyAlgo = 13
 --------------------------------------------------------------- 
 
 Borne inférieure ‘‘maximum’’ = 10
-Borne inférieure ‘‘moyenne’’ = 14
-Résultat LSA = 20
-Résultat LPT = 16
-Résultat MyAlgo = 25
+Borne inférieure ‘‘moyenne’’ = 9
+Résultat LSA = 16
+Résultat LPT = 10
+Résultat MyAlgo = 13
 --------------------------------------------------------------- 
 
 Borne inférieure ‘‘maximum’’ = 10
-Borne inférieure ‘‘moyenne’’ = 14
-Résultat LSA = 20
-Résultat LPT = 16
-Résultat MyAlgo = 25
+Borne inférieure ‘‘moyenne’’ = 9
+Résultat LSA = 16
+Résultat LPT = 10
+Résultat MyAlgo = 13
 --------------------------------------------------------------- 
 
 Borne inférieure ‘‘maximum’’ = 10
-Borne inférieure ‘‘moyenne’’ = 13
-Résultat LSA = 20
-Résultat LPT = 16
-Résultat MyAlgo = 24
+Borne inférieure ‘‘moyenne’’ = 9
+Résultat LSA = 16
+Résultat LPT = 10
+Résultat MyAlgo = 13
 --------------------------------------------------------------- 
 
 Borne inférieure ‘‘maximum’’ = 10
-Borne inférieure ‘‘moyenne’’ = 14
-Résultat LSA = 20
-Résultat LPT = 16
-Résultat MyAlgo = 24
+Borne inférieure ‘‘moyenne’’ = 8
+Résultat LSA = 15
+Résultat LPT = 10
+Résultat MyAlgo = 12
 --------------------------------------------------------------- 
 
 Borne inférieure ‘‘maximum’’ = 10
-Borne inférieure ‘‘moyenne’’ = 13
-Résultat LSA = 20
-Résultat LPT = 16
-Résultat MyAlgo = 24
+Borne inférieure ‘‘moyenne’’ = 8
+Résultat LSA = 16
+Résultat LPT = 10
+Résultat MyAlgo = 13
 --------------------------------------------------------------- 
 
 Borne inférieure ‘‘maximum’’ = 10
-Borne inférieure ‘‘moyenne’’ = 13
-Résultat LSA = 20
-Résultat LPT = 16
-Résultat MyAlgo = 24
+Borne inférieure ‘‘moyenne’’ = 8
+Résultat LSA = 16
+Résultat LPT = 10
+Résultat MyAlgo = 12
 --------------------------------------------------------------- 
 
 Borne inférieure ‘‘maximum’’ = 10
-Borne inférieure ‘‘moyenne’’ = 14
-Résultat LSA = 20
-Résultat LPT = 16
-Résultat MyAlgo = 25
+Borne inférieure ‘‘moyenne’’ = 8
+Résultat LSA = 15
+Résultat LPT = 10
+Résultat MyAlgo = 13
 --------------------------------------------------------------- 
 
 Borne inférieure ‘‘maximum’’ = 10
-Borne inférieure ‘‘moyenne’’ = 14
-Résultat LSA = 20
-Résultat LPT = 16
-Résultat MyAlgo = 25
+Borne inférieure ‘‘moyenne’’ = 8
+Résultat LSA = 15
+Résultat LPT = 10
+Résultat MyAlgo = 12
 --------------------------------------------------------------- 
 
 Borne inférieure ‘‘maximum’’ = 10
-Borne inférieure ‘‘moyenne’’ = 14
-Résultat LSA = 20
-Résultat LPT = 16
-Résultat MyAlgo = 25
+Borne inférieure ‘‘moyenne’’ = 8
+Résultat LSA = 16
+Résultat LPT = 10
+Résultat MyAlgo = 13
 --------------------------------------------------------------- 
 
-ratio d'approximation moyen LSA = 1.48352
-ratio d'approximation moyen LPT = 1.18681
-ratio d'approximation moyen MyAlgo = 1.81236
+ratio d'approximation moyen LSA = 1.575
+ratio d'approximation moyen LPT = 1
+ratio d'approximation moyen MyAlgo = 1.27
 
